@@ -1,6 +1,21 @@
 # Full-Stack-Attack
 Jamal - Express (Backend) and Deployment 
 
+1) Open a Terminal
+
+2) Navigate into your 
+$ cd 
+
+3) After navigating into your backend repo, we're going to need to install the following dependencies :
+
+$ NPM init -y 
+$ NPM i express dotenv
+$ NPM i cors
+
+
+
+$ TOUCH server.js app.js .env .gitignore
+
 
 
 
